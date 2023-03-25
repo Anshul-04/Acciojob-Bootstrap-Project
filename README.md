@@ -1,3 +1,3 @@
 # Acciojob-Bootstrap-project
-# Deloyement Link - 
+# Deployed Link - 
 https://anshul-04.github.io/Acciojob-Bootstrap-project/
